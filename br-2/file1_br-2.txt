@@ -1,1 +1,3 @@
 Archivo creado en la rama BR-2.
+
+ISSUE SOLUCIONADO.
